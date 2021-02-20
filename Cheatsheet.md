@@ -5,6 +5,16 @@
 2. <a href="#spectacle-shortcuts">**_Spectacle_ Shortcuts**</a>
 3. <a href="#terminal-and-the-command-line-interface">**_Terminal_ and the Command Line Interface**</a>
 4. <a href="#git-and-github">**Git and GitHub**</a>
+    1. <a href="#configure-tooling">Configure Tooling</a>
+    2. <a href="#create-repositories">Create Repositories</a>
+    3. <a href="#make-changes">Make Changes</a>
+    4. <a href="#group-changes">Group Changes</a>
+    5. <a href="#refactor-filenames">Refactor Filenames</a>
+    6. <a href="#suppress-tracking">Suppress Tracking</a>
+    7. <a href="#save-fragments">Save Fragments</a>
+    8. <a href="#review-history">Review History</a>
+    9. <a href="#redo-commits">Redo Commits</a>
+    10. <a href="#synchronize-changes">Synchronize Changes</a>
 
 ## **Keyboard Shortcuts**
 - Developers avoid using the mouse whenever possible and are more productive when their hands are on the keyboard. 
