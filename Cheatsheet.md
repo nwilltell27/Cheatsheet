@@ -1,4 +1,10 @@
-# **Nathan's Most Excellent Cheatsheet**
+# **Nathan's Most Excellent Cheatsheet** 
+
+## **Table of Contents**
+1. <a href="#keyboard-shortcuts">**Keyboard Shortcuts**</a>
+2. <a href="#spectacle-shortcuts">**_Spectacle_ Shortcuts**</a>
+3. <a href="#terminal-and-the-command-line-interface">**_Terminal_ and the Command Line Interface**</a>
+4. <a href="#git-and-github">**Git and GitHub**</a>
 
 ## **Keyboard Shortcuts**
 - Developers avoid using the mouse whenever possible and are more productive when their hands are on the keyboard. 
@@ -9,11 +15,16 @@
 | `cmd+space` | Opens *Spotlight* search bar. | 
 | `cmd+tab`   | Quickly switches between running apps. |
 | `cmd+backtick` | Switch between multiple windows of same application. | 
+| `cmd+'Z'` | Undo's last edit. |
+| `cmd+'W'` | Close's current working window or tab. |
+| `cmd+'Q'` | Close's current working application. |
+
 
 >NOTE: it's best to minimize how many windows/applications you have open when developing to make switching between applications quicker and minimize distractions to the job at hand.
 
-<br>
-===================
+<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+
+---
 
 ## **_Spectacle_ Shortcuts**
 - Application allows user to easily organize windows without using a mouse!
@@ -27,8 +38,9 @@
 | `opt+cmd+'Up'` | Moves window to top half. |
 | `opt+cmd+'Down'` | Moves window to bottom half. |
 
-<br>
-===================
+<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+
+---
 
 ## **_Terminal_ and the Command Line Interface**
 
@@ -45,23 +57,24 @@
 | `cd ..` | Change to *parent* directory. | 
 | `ls`  | Lists contents of current directory. | 
 | `ls -a` | Displays *hidden* files in current directory. |
-| `mkdir` | Creates a directory (or folder). |
-| `touch` | Creates a file in current directory (i.e. `touch index.html`). |
-| `mv`  | Move files and directories. |
-| `cp`  | Copy files and directories. |
-| `rm`  | Deletes files and directories. |
-| `rm -r` | Deletes directories and contents within. |
-
+| `mkdir` | Creates a *directory* (or folder). |
+| `touch` | Creates a *file* in current directory (i.e. `touch index.html`). |
+| `mv`  | *Move* and *rename* files and directories (i.e. `mv style1.css style2.css`). |
+| `cp`  | *Copy* files and directories. |
+| `rm`  | *Deletes* files and directories. |
+| `rm -r` | *Deletes* directories and contents within. |
 >Note: be careful when deleting anything using the *Terminal* as it will be gone **FOREVER** (no trashcan, no undos).
+
 
 ### **Command History & Clearing the Window**
 - Pressing the `'Up'` and `'Down'` arrow in *Terminal* will cycle through previously entered commands. This can be a huge time saver!
 - To clear the *Terminal* window, simply press `cmd+k` or type `clear` in the window.
 
-<br>
-===================
+<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
 
-## **Git & GitHub**
+---
+
+## **Git and GitHub**
 - **Git** provides us with local repositories on our computers. 
 - **GitHub** provides us with remote repostories stored in the cloud. 
 - A local repository is "linked" to a remote repository by adding a "remote" with the command `$ git remote add <name of remote> <URL of repo on GitHub>`. 
@@ -172,7 +185,7 @@ _Exclude temporary files and paths._
 
 | `*.log build/temp-*` |
 |---|
-A text file names `.gitignore` suppresses accidental versioning of files and paths matching the specified patterns. 
+|A text file names `.gitignore` suppresses accidental versioning of files and paths matching the specified patterns. |
 
 | `$ git ls-files --other --ignored --exclude-standard` |
 |---|
@@ -253,3 +266,5 @@ Uploads all local branch commits to GitHub.
 | `$ git pull` |
 |---|
 Downloads bookmark history and incorporates changes. 
+
+<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
