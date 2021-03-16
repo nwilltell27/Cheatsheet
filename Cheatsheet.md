@@ -32,7 +32,7 @@
 
 >NOTE: it's best to minimize how many windows/applications you have open when developing to make switching between applications quicker and minimize distractions to the job at hand.
 
-<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+<a href="#cheatsheet-1">Back to Top</a>
 
 ---
 
@@ -48,7 +48,7 @@
 | `opt+cmd+'Up'` | Moves window to top half. |
 | `opt+cmd+'Down'` | Moves window to bottom half. |
 
-<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+<a href="#cheatsheet-1">Back to Top</a>
 
 ---
 
@@ -80,7 +80,7 @@
 - Pressing the `'Up'` and `'Down'` arrow in *Terminal* will cycle through previously entered commands. This can be a huge time saver!
 - To clear the *Terminal* window, simply press `cmd+k` or type `clear` in the window.
 
-<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+<a href="#cheatsheet-1">Back to Top</a>
 
 ---
 
@@ -277,4 +277,4 @@ Uploads all local branch commits to GitHub.
 |---|
 Downloads bookmark history and incorporates changes. 
 
-<a href="#nathans-most-excellent-cheatsheet">Back to Top</a>
+<a href="#cheatsheet-1">Back to Top</a>
