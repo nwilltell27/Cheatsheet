@@ -1,4 +1,4 @@
-# **Nathan's Most Excellent Cheatsheet** 
+# **Cheatsheet-1** 
 
 ## **Table of Contents**
 1. <a href="#keyboard-shortcuts">**Keyboard Shortcuts**</a>
@@ -20,7 +20,7 @@
 - Developers avoid using the mouse whenever possible and are more productive when their hands are on the keyboard. 
 - Below is a list of commonly used keyboard shortcuts:
 
-| Keys   |      Action      |  
+| Keys     |    Action   |  
 |----------|-------------|
 | `cmd+space` | Opens *Spotlight* search bar. | 
 | `cmd+tab`   | Quickly switches between running apps. |
